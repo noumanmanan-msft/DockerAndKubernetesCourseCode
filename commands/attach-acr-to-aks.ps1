@@ -1,0 +1,1 @@
+az aks update --name aks-devtest-scus-001 --resource-group rg-demo-scus-001 --attach-acr acrdemoscus001

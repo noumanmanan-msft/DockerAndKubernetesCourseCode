@@ -13,6 +13,6 @@ spec:
         app: node-app
     spec:
       containers:
-      - image: node-app:3.0
+      - image: acrdemoscus001.azurecr.io/node/node:3.0
         name: node-app
         resources: {}
